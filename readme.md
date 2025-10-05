@@ -42,10 +42,3 @@ This will start the server on a separate port (e.g., localhost:9000).
 2. **Start the React app (frontend) in another terminal**:
    ```bash
    npm run server
-
-
-
-
-
-
-
