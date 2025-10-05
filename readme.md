@@ -12,7 +12,7 @@ Welcome to **Hura's Kitchen**, a restaurant food menu application built with **R
 ## Screenshots
 
 ### Home Page (Food Menu)
-![Home Page](./Screenshot 2025-10-05 220136.png)
+![Home Page]("https://github.com/mashfi40/Huras-Kitchen/blob/main/Screenshot%202025-10-05%20220136.png")
 
 ### Filter with Category
 ![Food Item Detail](./Screenshot 2025-10-05 222131.png)
@@ -42,5 +42,6 @@ This will start the server on a separate port (e.g., localhost:9000).
 2. **Start the React app (frontend) in another terminal**:
    ```bash
    npm run server
+
 
 
