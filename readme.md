@@ -24,4 +24,20 @@ Welcome to **Hura's Kitchen**, a restaurant food menu application built with **R
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/huras-kitchen.git
+   git clone https://github.com/mashfi40/Huras-Kitchen.git
+2. **Install the dependencies**:   
+   ```bash
+   npm install
+   
+Feel free to fork this repository and make contributions or suggestions. Enjoy using Hura's Kitchen!   
+
+## Running the App and Server
+To run both the client-side React app and the server in development mode, follow these steps:
+
+1. **Start the server (backend) in one terminal**:
+   ```bash
+   npm run server
+This will start the server on a separate port (e.g., localhost:9000).
+2. **Start the React app (frontend) in another terminal**:
+   ```bash
+   npm run server
